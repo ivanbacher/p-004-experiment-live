@@ -781,7 +781,6 @@ System.config({
       "scoped_d/vis-viewport.html!github:systemjs/plugin-text@0.0.8.js",
       "scoped_d/vis-viewport.js",
       "services/data_manager.js",
-      "services/data_manager_backup.js",
       "services/mock_data_manager.js",
       "services/mouse_capturer.js",
       "views/app.html!github:systemjs/plugin-text@0.0.8.js",
@@ -928,10 +927,6 @@ System.config({
     "scoped_d/vis-viewport.js": [
       "aurelia-framework",
       "aurelia-event-aggregator"
-    ],
-    "services/data_manager_backup.js": [
-      "aurelia-framework",
-      "aurelia-fetch-client"
     ],
     "services/data_manager.js": [
       "aurelia-framework",
