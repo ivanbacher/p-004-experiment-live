@@ -1,0 +1,16 @@
+.highlightClasshighlightClass {
+    border-radius: 0px !important;
+}
+
+.introjs-tooltip {
+    font-size: 18px;
+    min-width: 350px;
+}
+
+.introjs-button {
+    font-size: 14px;
+}
+
+.introjs-overlay {
+    background: #000 !important;
+}
